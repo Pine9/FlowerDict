@@ -31,7 +31,8 @@
             android:paddingTop="20dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Definition not found."/>
+            android:text="Definition not found."
+            android:textSize="16sp"/>
         <ImageView
             android:id="@+id/flower"
             android:layout_width="300dp"
@@ -47,6 +48,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:padding="5dp"
+            android:layout_marginTop="20dp"
             android:text="Return"
             android:onClick="exit" />
     </LinearLayout>
