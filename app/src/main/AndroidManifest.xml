@@ -2,10 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="pine.android.flowerdict">
 
-    <uses-permission android:name="android.permission.INTERNET" />
-
     <application
-        android:usesCleartextTraffic="true"
         android:allowBackup="true"
         android:icon="@drawable/flowerdicticon"
         android:label="@string/app_name"
