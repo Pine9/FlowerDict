@@ -106,7 +106,7 @@ Tigerente. "PrimulaAuricula". https://commons.wikimedia.org/wiki/File:PrimulaAur
 Azalea (azalea.jpg):
 Sakaki, Leonardo. "Azaleia00005". https://commons.wikimedia.org/wiki/File:Azaleia00005.jpg
 
-Bachelor's Buttons (bachelor's_buttons.jpg):
+Bachelor's Button (bachelors_button.jpg):
 Audrey. "Blue Bachelor's Button". https://www.flickr.com/photos/audreyjm529/534688220/
 
 Balm (balm.jpg):
@@ -720,7 +720,7 @@ Jeffdelonge. "Jacobinia magnifica02". https://commons.wikimedia.org/wiki/File:Ja
 Kennedia (kennedia.jpg):
 Gnangarra. "Kennedia prostrata 01 gnangarra". https://commons.wikimedia.org/wiki/File:Kennedia_prostrata_01_gnangarra.JPG
 
-Kingcups (kingcups.jpg):
+Kingcup (kingcup.jpg):
 Jasper33. "Caltha palustris plant". https://commons.wikimedia.org/wiki/File:Caltha_palustris_plant.JPG
 
 Laburnum (laburnum.jpg):

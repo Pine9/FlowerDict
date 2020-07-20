@@ -598,7 +598,7 @@ Justicia                              _The perfection of female loveliness._
 <Water-willow, Shrimp Plant>
 Kennedia                              _Mental Beauty._
 
-Kingcups                              _Desire of Riches._
+Kingcup                               _Desire of Riches._
 <Marsh-marigold>
 Laburnum                              _Forsaken. Pensive Beauty._
 <Golden Chain, Golden Rain>
